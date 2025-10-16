@@ -93,7 +93,7 @@ if ($canWrite) {
 </head>
 <body>
   <div class="wrap">
-    <h1>✅ Site Baffa funcionando via HTTPS -  Edi</h1>
+    <h1>✅ Site Baffa funcionando via HTTPS -  Edi teste final</h1>
     <div class="muted">Diagnóstico rápido do servidor e ambiente PHP/Apache.</div>
 
     <div class="grid">
