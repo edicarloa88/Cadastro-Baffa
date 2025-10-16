@@ -147,7 +147,7 @@ if ($canWrite) {
     </div>
 
     <footer>
-      Remova este arquivo após os testes. — <?= date('Y-m-d H:i:s') ?>
+      Remova este arquivo após os testes. —  TESTE<?= date('Y-m-d H:i:s') ?>
     </footer>
   </div>
 </body>
